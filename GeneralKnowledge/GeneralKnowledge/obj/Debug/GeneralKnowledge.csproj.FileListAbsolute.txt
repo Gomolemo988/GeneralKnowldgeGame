@@ -1,0 +1,10 @@
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\bin\Debug\GeneralKnowledge.exe.config
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\bin\Debug\GeneralKnowledge.exe
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\bin\Debug\GeneralKnowledge.pdb
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.csprojAssemblyReference.cache
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.Form1.resources
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.Properties.Resources.resources
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.csproj.GenerateResource.cache
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.csproj.CoreCompileInputs.cache
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.exe
+C:\Users\Gomez\Desktop\GeneralKnowledge\GeneralKnowledge\obj\Debug\GeneralKnowledge.pdb
